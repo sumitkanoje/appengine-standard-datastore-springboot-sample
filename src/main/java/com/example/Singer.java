@@ -14,7 +14,7 @@
  *  limitations under the License.
  */
 
-package com.knoje;
+package com.example;
 
 import java.util.Objects;
 

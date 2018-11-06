@@ -25,10 +25,10 @@ import java.util.Map;
 import java.util.concurrent.TimeUnit;
 import java.util.stream.Collectors;
 
+import com.example.DatastoreRepositoryExample;
+import com.example.Singer;
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.knoje.DatastoreRepositoryExample;
-import com.knoje.Singer;
 
 import org.apache.commons.io.output.TeeOutputStream;
 import org.awaitility.Awaitility;

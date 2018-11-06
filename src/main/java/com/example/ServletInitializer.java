@@ -1,9 +1,9 @@
-package com.knoje;
+package com.example;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
 
-import com.knoje.DatastoreRepositoryExample;
+import com.example.DatastoreRepositoryExample;
 
 public class ServletInitializer extends SpringBootServletInitializer {
 
